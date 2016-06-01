@@ -1,3 +1,3 @@
 # CryptCoin
 Digital Coin 
-Coinbase digital alls coins cryptocurrency 
+Coin-base digital alls coins cryptocurrency 
